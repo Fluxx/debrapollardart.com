@@ -1,9 +1,8 @@
 ---
 layout: piece
 collection_: animals
-title: Animals Number 1
-foo: bar
-image: 1.jpg
+title: Gorilla
+image: /images/work/animals/gorilla.jpg
 media: Oil on Canval
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 price: $100

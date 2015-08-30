@@ -2,6 +2,10 @@
 layout: work
 ---
 
+<h1>{{ page.title }}</h1>
+
+{{ content }}
+
 {% assign works = site.work | where:"layout","piece" | where:"collection_",page.collection_ %}
 
 <ul>
