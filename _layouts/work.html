@@ -2,14 +2,14 @@
 layout: default
 ---
 
+{% assign collections = site.work | where:"layout","collection" %}
+
 <nav>
     <h1>Collections</h1>
     <ul>
-        <li><a href="/work/animals">Animals</a></li>
-        <li><a href="/work/beading">Beading</a></li>
-        <li><a href="/work/jewelry">Jewelry</a></li>
-        <li><a href="/work/mixed_media_beading">Mixed Media Beading</a></li>
-        <li><a href="/work/paintings">Paintings</a></li>
+        {% for c in collections %}
+        <li><a href="/work/{{ c.collection_ }}">{{ c.title }}</a></li> 
+        {% endfor %}
     </ul>
 </nav>
 
