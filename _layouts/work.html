@@ -9,7 +9,7 @@ section: work
     <h1>Collections</h1>
     <ul>
         {% for c in collections %}
-        <li data-collection="{{c.collection_}}"><a href="/work/{{ c.collection_ }}">{{ c.title }}</a></li> 
+        <li data-collection="{{c.collection_}}"><a href="{{site.baseurl}}/work/{{ c.collection_ }}">{{ c.title }}</a></li>
         {% endfor %}
     </ul>
 </nav>
