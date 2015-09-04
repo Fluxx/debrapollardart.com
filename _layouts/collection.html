@@ -8,8 +8,10 @@ layout: work
 
 {% assign works = site.work | where:"layout","piece" | where:"collection_",page.collection_ %}
 
-<ul>
-{% for work in works %}
-<li><a href="{{work.url }}">{{ work.title }}</a></li> 
-{% endfor %}
-</ul>
+<nav>
+    <ul>
+    {% for work in works %}
+    <li><a href="{{work.url }}">{{ work.title }}</a></li> 
+    {% endfor %}
+    </ul>
+</nav>

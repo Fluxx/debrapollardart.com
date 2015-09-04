@@ -3,15 +3,15 @@
 <head>
     <title>{{ title }}</title>
 </head>
-<body>
+<body data-section="{{page.section}}">
 
 <header>
     <h1><a href="/">Debra Pollard Art</a></h1>
     <nav>
         <ul>
-            <li><a href="/about">About Debra</a></li>
-            <li><a href="/work">Work</a></li>
-            <li><a href="/contact">Contact</a></li>
+            <li data-section="about"><a href="/about">About Debra</a></li>
+            <li data-section="work"><a href="/work">Work</a></li>
+            <li data-section="contact"><a href="/contact">Contact</a></li>
         </ul>
     </nav>
 </header>
