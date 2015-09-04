@@ -5,8 +5,6 @@ layout: work
 <article>
     <h1>{{ page.title }}</h1>
     <dl>
-        <dt>Image</dt>
-        <dd><img src="{{site.baseurl}}/images/work/{{page.collection_}}/{{page.image}}"></dd>
         <dt>Media</dt>
         <dd>{{ page.media }}</dd>
         <dt>Collection</dt>
@@ -19,6 +17,8 @@ layout: work
         <dd>{{ page.price }}</dd>
         <dt>Created</dt>
         <dd>{{ page.create_date }}</dd>
+        <dt>Image</dt>
+        <dd><img src="{{site.baseurl}}/images/work/{{page.collection_}}/{{page.image}}"></dd>
     </dl>
 </article>
 
