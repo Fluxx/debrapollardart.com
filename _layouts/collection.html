@@ -11,7 +11,10 @@ layout: work
 <nav>
     <ul>
     {% for work in works %}
-    <li><a href="{{work.url }}">{{ work.title }}</a></li>
+    <li>
+        <h2><a href="{{work.url }}">{{ work.title }}</a></h2>
+        <a href="{{work.url }}"><img src="{{ work.image }}" width="100" height="100"></a>
+    </li>
     {% endfor %}
     </ul>
 </nav>
