@@ -4,7 +4,7 @@ collection_: paintings
 title: Hope
 image: hope.jpg
 media: Acrylic
-dimensions: 8 x 11
+dimensions: 8" x 11"
 description: Painted with popsicle sticks on corrugated board.
 price: $95
 create_date: 2015

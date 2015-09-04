@@ -4,7 +4,7 @@ collection_: paintings
 title: lizzy
 image: lizzy.jpg
 media: Acrylic
-dimensions: 10 x 23½
+dimensions: 10" x 23"½
 description: Painted with popsicle sticks on board.
 price: $250
 create_date: 2015
