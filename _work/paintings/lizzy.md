@@ -1,7 +1,7 @@
 ---
 layout: piece
 collection_: paintings
-title: lizzy
+title: Lizzy
 image: lizzy.jpg
 media: Acrylic
 dimensions: 10" x 23½"
