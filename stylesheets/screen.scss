@@ -1,0 +1,89 @@
+---
+---
+
+$font-stack: 'Neuton', serif;
+$primary-color: #6E6657;
+$gutter: 15px;
+
+@mixin navigation-list {
+    list-style-type:none;
+    padding:0;
+    margin:0;
+    overflow:hidden;
+    > li{
+        display:block;
+        float:left;
+        &:last-child{
+            margin-right:0px;
+        }
+    }
+}
+
+body {
+    font-family: $font-stack;
+    margin: 0px;
+    padding: 20px;
+}
+
+a, h1, h2, h3 {
+    color: $primary-color;
+    text-decoration: none;
+
+    &:hover {text-decoration: underline;}
+}
+
+header {
+
+    h1 {
+
+        margin: 0 auto 5px $gutter;
+
+        a { text-decoration: none; }
+    }
+
+    nav {
+
+        margin-bottom: 20px;
+
+        ul {
+            @include navigation-list;
+
+            border-radius: 8px;
+            background-color: $primary-color;
+
+            a { color: white; }
+
+            li {
+                padding: 15px 0px 15px $gutter;
+            }
+        }
+    }
+}
+
+div#page {
+    margin-left: $gutter;
+
+    nav[data-collection] {
+
+        ul {
+            @include navigation-list;
+
+            li {
+                padding: 15px 0px 15px $gutter;
+            }
+        }
+    }
+}
+
+footer {
+
+    nav ul {
+        @include navigation-list;
+
+        li {
+            padding: 15px 0px 15px $gutter;
+
+            a { color: #999 }
+        }
+    }
+}
