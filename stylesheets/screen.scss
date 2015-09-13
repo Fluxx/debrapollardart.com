@@ -117,6 +117,7 @@ body {
     &[data-section=contact] header nav li[data-section=contact] a {
         color: #FBE077;
         font-weight: bold;
+        &:hover { text-decoration: none; }
     }
 
     div#page {
@@ -126,7 +127,10 @@ body {
         nav[data-collection=jewelry] li[data-collection=jewelry],
         nav[data-collection=mixed_media_beading] li[data-collection=mixed_media_beading],
         nav[data-collection=paintings] li[data-collection=paintings] {
+            border-bottom: 1px solid #BBB;
+
             a {
+                &:hover { text-decoration: none; }
                 color: $primary-color;
                 font-weight: bold;
             }
