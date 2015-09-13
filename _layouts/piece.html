@@ -2,22 +2,23 @@
 layout: work
 ---
 
-<article>
-    <h1>{{ page.title }}</h1>
-    <dl>
-        <dt>Media</dt>
-        <dd>{{ page.media }}</dd>
-        <dt>Description</dt>
-        <dd>{{ page.description }}</dd>
-        <dt>Dimensions</dt>
-        <dd>{{ page.dimensions }}</dd>
-        <dt>Price</dt>
-        <dd>{{ page.price }}</dd>
-        <dt>Created</dt>
-        <dd>{{ page.create_date }}</dd>
-        <dt>Image</dt>
-        <dd><img src="{{site.baseurl}}/images/work/{{page.collection_}}/{{page.image}}"></dd>
-    </dl>
+<article class="piece">
+    <div class="info">
+        <h1>{{ page.title }}</h1>
+        <dl>
+            <dt>Media</dt>
+            <dd>{{ page.media }}</dd>
+            <dt>Description</dt>
+            <dd>{{ page.description }}</dd>
+            <dt>Dimensions</dt>
+            <dd>{{ page.dimensions }}</dd>
+            <dt>Price</dt>
+            <dd>{{ page.price }}</dd>
+            <dt>Created</dt>
+            <dd>{{ page.create_date }}</dd>
+        </dl>
+    </div>
+    <img src="{{site.baseurl}}/images/work/{{page.collection_}}/{{page.image}}">
 </article>
 
 {{ content }}

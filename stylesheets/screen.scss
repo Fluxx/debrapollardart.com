@@ -96,9 +96,29 @@ div#page {
             }
         }
     }
+
+    article.piece {
+        div.info {
+            float: right;
+            width: 25%;
+            h1 { margin-top: 0; }
+        }
+
+        dt { font-weight: bold; }
+        dd { margin-left: 0; }
+
+        dd + dt { margin-top: 20px; }
+
+        img {
+            float: left;
+            width: 70%;
+        }
+    }
 }
 
 footer {
+
+    clear: both;
 
     nav ul {
         @include navigation-list;
