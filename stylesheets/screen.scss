@@ -128,12 +128,26 @@ body {
                 float: right;
                 width: 25%;
                 h1 { margin-top: 0; }
+
+                nav {
+                    margin-top: 40px;
+                    a { color: #999; }
+                }
             }
 
             dt { font-weight: bold; }
             dd { margin-left: 0; }
 
             dd + dt { margin-top: 20px; }
+
+            p.buy a {
+                box-shadow: 1px 1px 1px #CCC;
+                border-radius: 7px;
+                padding: 3px 12px;
+                font-size: 90%;
+                background-color: #FA5A43;
+                color: white;
+            }
 
             img {
                 float: left;
