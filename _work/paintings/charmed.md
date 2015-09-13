@@ -1,8 +1,8 @@
 ---
 layout: piece
 collection_: paintings
-title: Pensive
-image: pensive.jpg
+title: Charmed
+image: charmed.jpg
 media: Acrylic
 dimensions: 18" x 24"
 description: Painted with popsicle sticks on board.
