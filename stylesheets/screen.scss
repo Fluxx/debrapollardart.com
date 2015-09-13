@@ -145,9 +145,12 @@ body {
     footer {
 
         clear: both;
+        color: #999;
 
         nav ul {
             @include navigation-list;
+
+            float: left;
 
             li {
                 padding: 15px 0px 15px $gutter;
@@ -155,6 +158,8 @@ body {
                 a { color: #999 }
             }
         }
+
+        p { float: right; }
     }
 }
 
