@@ -1,11 +1,11 @@
 ---
 layout: piece
 collection_: paintings
-title: It Matters
-image: it-matters.jpg
+title: Pride
+image: pride.jpg
 media: Acrylic
-dimensions: 10" x 13"
-description: Painted with popsicle sticks on board.
+dimensions: 23" x 34"
+description: Painted with popsicle sticks on cardboard.
 price: $100
 create_date: 2015
 ---
