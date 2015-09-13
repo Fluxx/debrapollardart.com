@@ -1,4 +1,10 @@
 collections:
   work:
     output: true
+defaults:
+  -
+    scope:
+      collection: work
+    values:
+      section: "work"
 baseurl: /debrapollardart.com
