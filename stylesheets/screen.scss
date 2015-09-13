@@ -129,7 +129,26 @@ body {
     &[data-section=home] {
         div#page {
             margin-left: 0px;
-            img { width: 100% }
+            a {
+                animation-duration: 15s;
+                animation-direction: alternate;
+                animation-name: rotate;
+                animation-iteration-count: infinite;
+                background-size: 100%;
+                display: block;
+                height: 700px;
+                width: 100%;
+
+                span { display: none; }
+            }
+
+            @keyframes rotate {
+                0% { background-image: url("{{site.baseurl}}/images/home/masi.jpg"); }
+                25% { background-image: url("{{site.baseurl}}/images/home/masi.jpg"); }
+                50% { background-image: url("{{site.baseurl}}/images/home/children.jpg"); }
+                75% { background-image: url("{{site.baseurl}}/images/home/children.jpg"); }
+                100% { background-image: url("{{site.baseurl}}/images/home/masi.jpg"); }
+            }
         }
     }
 
