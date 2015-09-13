@@ -28,11 +28,15 @@ body {
 a, h1, h2, h3 {
     color: $primary-color;
     text-decoration: none;
+}
 
+a {
     &:hover {text-decoration: underline;}
 }
 
 header {
+
+    margin-bottom: 20px;
 
     h1 {
 
@@ -43,15 +47,13 @@ header {
 
     nav {
 
-        margin-bottom: 20px;
-
         ul {
             @include navigation-list;
 
             border-radius: 8px;
             background-color: $primary-color;
 
-            a { color: white; }
+            a { color: #CFC6B4; }
 
             li {
                 padding: 15px 0px 15px $gutter;
@@ -63,13 +65,30 @@ header {
 div#page {
     margin-left: $gutter;
 
-    nav[data-collection] {
-
+    article#collection {
         ul {
             @include navigation-list;
 
             li {
-                padding: 15px 0px 15px $gutter;
+                margin: 10px;
+
+                h2 {
+                    font-size: 100%;
+                    margin: 0 0 10px 0;
+                }
+            }
+        }
+    }
+
+    nav[data-collection] {
+
+        a { color: #ABA498 }
+
+        ul {
+            @include navigation-list;
+
+            li + li {
+                margin-left: 20px;
             }
         }
     }
@@ -84,6 +103,29 @@ footer {
             padding: 15px 0px 15px $gutter;
 
             a { color: #999 }
+        }
+    }
+}
+
+body {
+    &[data-section=about] header nav li[data-section=about] a,
+    &[data-section=work] header nav li[data-section=work] a,
+    &[data-section=contact] header nav li[data-section=contact] a {
+        color: white;
+        font-weight: bold;
+    }
+
+    div#page {
+
+        nav[data-collection=animals] li[data-collection=animals],
+        nav[data-collection=beading] li[data-collection=beading],
+        nav[data-collection=jewelry] li[data-collection=jewelry],
+        nav[data-collection=mixed_media_beading] li[data-collection=mixed_media_beading],
+        nav[data-collection=paintings] li[data-collection=paintings] {
+            a {
+                color: $primary-color;
+                font-weight: bold;
+            }
         }
     }
 }

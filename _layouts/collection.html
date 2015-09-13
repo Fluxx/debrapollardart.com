@@ -2,19 +2,19 @@
 layout: work
 ---
 
-<h1>{{ page.title }}</h1>
-
 {{ content }}
 
 {% assign works = site.work | where:"layout","piece" | where:"collection_",page.collection_ %}
 
-<nav>
-    <ul>
-    {% for work in works %}
-    <li>
-        <h2><a href="{{site.baseurl}}{{work.url }}">{{ work.title }}</a></h2>
-        <a href="{{site.baseurl}}{{work.url }}"><img src="{{site.baseurl}}/images/work/{{work.collection_}}/{{work.image}}" width="100" height="100"></a>
-    </li>
-    {% endfor %}
-    </ul>
-</nav>
+<article id="collection">
+    <nav>
+        <ul>
+        {% for work in works %}
+        <li>
+            <h2><a href="{{site.baseurl}}{{work.url }}">{{ work.title }}</a></h2>
+            <a href="{{site.baseurl}}{{work.url }}"><img src="{{site.baseurl}}/images/work/{{work.collection_}}/{{work.image}}" width="100" height="100"></a>
+        </li>
+        {% endfor %}
+        </ul>
+    </nav>
+</article>
