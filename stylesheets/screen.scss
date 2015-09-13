@@ -131,7 +131,6 @@ body {
             margin-left: 0px;
             a {
                 animation-duration: 15s;
-                animation-direction: alternate;
                 animation-name: rotate;
                 animation-iteration-count: infinite;
                 background-size: 100%;
@@ -144,9 +143,11 @@ body {
 
             @keyframes rotate {
                 0% { background-image: url("{{site.baseurl}}/images/home/masi.jpg"); }
-                25% { background-image: url("{{site.baseurl}}/images/home/masi.jpg"); }
-                50% { background-image: url("{{site.baseurl}}/images/home/children.jpg"); }
-                75% { background-image: url("{{site.baseurl}}/images/home/children.jpg"); }
+                15% { background-image: url("{{site.baseurl}}/images/home/masi.jpg"); }
+                30% { background-image: url("{{site.baseurl}}/images/home/children.jpg"); }
+                45% { background-image: url("{{site.baseurl}}/images/home/children.jpg"); }
+                60% { background-image: url("{{site.baseurl}}/images/home/carol.jpg"); }
+                90% { background-image: url("{{site.baseurl}}/images/home/carol.jpg"); }
                 100% { background-image: url("{{site.baseurl}}/images/home/masi.jpg"); }
             }
         }
