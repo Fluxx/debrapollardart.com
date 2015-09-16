@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: mixed_media_beading
+collection_: mixed_media
 title: Women
 image: women.jpg
 media: Ink, watercolor

@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: mixed_media_beading
+collection_: mixed_media
 title: Three Styles of Happy
 image: three-styles-of-happy.jpg
 media: Ink, watercolor, acrylic, thread
