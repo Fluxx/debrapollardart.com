@@ -16,7 +16,7 @@ layout: work
             <dd>{{ page.price }}</dd>
             <dt>Created</dt>
             <dd>{{ page.create_date }}</dd>
-            {% if page.availability and page.availability != 'solid' %}
+            {% if page.availability and page.availability != 'sold' %}
             <dt>Availability</dt>
             <dd>
                 Only <strong>{{ page.availability | split:"," | array_to_sentence_string }}</strong>
