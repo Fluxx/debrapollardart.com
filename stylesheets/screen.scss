@@ -3,6 +3,7 @@
 
 $font-stack: 'Alegreya', serif;
 $primary-color: #402924;
+$highlight-color: #FA5A43;
 $gutter: 15px;
 
 @mixin navigation-list {
@@ -106,7 +107,14 @@ body {
             }
 
             dt { font-weight: bold; }
-            dd { margin-left: 0; }
+            dd {
+
+                strong {
+                    color: $highlight-color;
+                }
+
+                margin-left: 0;
+            }
 
             dd + dt { margin-top: 20px; }
 
@@ -115,8 +123,13 @@ body {
                 border-radius: 7px;
                 padding: 3px 12px;
                 font-size: 90%;
-                background-color: #FA5A43;
+                background-color: $highlight-color;
                 color: white;
+            }
+
+            p.sold {
+                color: desaturate($highlight-color, 30%);
+                font-style: italic;
             }
 
             img {

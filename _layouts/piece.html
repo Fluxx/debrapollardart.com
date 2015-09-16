@@ -16,8 +16,20 @@ layout: work
             <dd>{{ page.price }}</dd>
             <dt>Created</dt>
             <dd>{{ page.create_date }}</dd>
+            {% if page.availability and page.availability != 'solid' %}
+            <dt>Availability</dt>
+            <dd>
+                Only <strong>{{ page.availability | split:"," | array_to_sentence_string }}</strong>
+                available for purchase
+            </dd>
+            {% endif %}
         </dl>
+
+        {% if page.availability == 'sold' %}
+        <p class="sold">Sold</p>
+        {% else %}
         <p class="buy"><a href="{{site.baseurl}}/contact">Buy</a></p>
+        {% endif %}
         <nav><a href="{{site.baseurl}}/work/{{page.collection_}}">&larr; Back to Collection</a></nav>
     </div>
     <img src="{{site.baseurl}}/images/work/{{page.collection_}}/{{page.image}}">
