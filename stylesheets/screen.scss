@@ -71,9 +71,15 @@ body {
 
                 li {
                     margin: 10px;
+                    width: 150px;
+                    height: 150px;
+
+                    > a {
+                        position: absolute;
+                    }
 
                     h2 {
-                        font-size: 100%;
+                        font-size: 90%;
                         margin: 0 0 10px 0;
                     }
                 }

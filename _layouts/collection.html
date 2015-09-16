@@ -11,7 +11,7 @@ layout: work
         <ul>
         {% for work in works %}
         <li>
-            <h2><a href="{{site.baseurl}}{{work.url }}">{{ work.title }}</a></h2>
+            <h2><a href="{{site.baseurl}}{{work.url }}">{{ work.title | truncate:21,'...' }}</a></h2>
             <a href="{{site.baseurl}}{{work.url }}"><img src="{{site.baseurl}}/images/work/{{work.collection_}}/{{work.image}}" width="100" height="100"></a>
         </li>
         {% endfor %}
