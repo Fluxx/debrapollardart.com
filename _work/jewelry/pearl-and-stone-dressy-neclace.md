@@ -7,4 +7,5 @@ media: Mixed beads
 dimensions: 24" total, 12" hung
 description: Pearls, smoked beads with gold colored findings and clasp.
 price: $45
+create_date: 2012
 ---
