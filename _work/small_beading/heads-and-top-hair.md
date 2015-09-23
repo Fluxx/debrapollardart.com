@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+collection_: small_beading
 title: Heads and Top Hair
 image: heads-and-top-hair.jpg
 media: Seed beads and fimo molded faces and textures.

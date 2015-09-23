@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+collection_: small_beading
 title: Culture Shading
 image: culture-shading.jpg
 media: Seed beads, molded faces fimo

@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+collection_: small_beading
 title: Black, Yellow and Red Faces
 image: black-yellow-and-red-faces.jpg
 media: Fimo sculpted molds, seed beads, paper clay and watercolor
