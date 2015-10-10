@@ -1,10 +1,10 @@
 collections:
-  work:
+  portfolio:
     output: true
 defaults:
   -
     scope:
-      collection: work
+      collection: portfolio
     values:
-      section: "work"
+      section: "portfolio"
 baseurl: /debrapollardart.com

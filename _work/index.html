@@ -1,20 +1,20 @@
 ---
 layout: default
-section: work
-title: Work
+section: portfolio
+title: Portfolio
 ---
 
 Art has always been a passion for me from a very early early age. Through the jagged journey of life I have kept creating and learning techniques, experimenting, and teaching others. I have vision and creativity that begin and start my day. It is the best part of any day to be able to be in my studio and put paint to paper or build something from an idea. I love to pursue all types of media and explore different ways of working. Recently, popsicle sticks and mixed media beading are a high point of exploration for me. I continue to do more traditional painting techniques, have fun working with beads in whimsical ways, and embrace the subject matter I love.
 
-{% assign collections = site.work | where:"layout","collection" %}
+{% assign collections = site.portfolio | where:"layout","collection" %}
 
 <ul id="collections">
     {% for c in collections %}
     <li data-collection="{{c.collection_}}">
-        <a href="{{site.baseurl}}/work/{{ c.collection_ }}">
-            {% assign sample = site.work | where:"layout","piece" | where:"collection_",c.collection_ | first %}
+        <a href="{{site.baseurl}}/portfolio/{{ c.collection_ }}">
+            {% assign sample = site.portfolio | where:"layout","piece" | where:"collection_",c.collection_ | first %}
             <h2>{{ c.title }}</h2>
-            <img src="{{site.baseurl}}/images/work/{{sample.collection_}}/{{sample.image}}">
+            <img src="{{site.baseurl}}/images/portfolio/{{sample.collection_}}/{{sample.image}}">
         </a>
     </li>
     {% endfor %}

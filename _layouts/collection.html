@@ -1,18 +1,18 @@
 ---
-layout: work
+layout: portfolio
 ---
 
 {{ content }}
 
-{% assign works = site.work | where:"layout","piece" | where:"collection_",page.collection_ %}
+{% assign works = site.portfolio | where:"layout","piece" | where:"collection_",page.collection_ %}
 
 <article id="collection">
     <nav>
         <ul>
-        {% for work in works %}
+        {% for portfolio in works %}
         <li>
-            <h2><a href="{{site.baseurl}}{{work.url }}">{{ work.title | truncate:20,'...' }}</a></h2>
-            <a href="{{site.baseurl}}{{work.url }}"><img src="{{site.baseurl}}/images/work/{{work.collection_}}/{{work.image}}" width="100" height="100"></a>
+            <h2><a href="{{site.baseurl}}{{portfolio.url }}">{{ portfolio.title | truncate:20,'...' }}</a></h2>
+            <a href="{{site.baseurl}}{{portfolio.url }}"><img src="{{site.baseurl}}/images/portfolio/{{portfolio.collection_}}/{{portfolio.image}}" width="100" height="100"></a>
         </li>
         {% endfor %}
         </ul>

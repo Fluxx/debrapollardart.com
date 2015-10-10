@@ -43,7 +43,7 @@ body {
         }
     }
 
-    &[data-section=work] {
+    &[data-section=portfolio] {
 
         ul#collections {
             @include navigation-list;
@@ -229,7 +229,7 @@ body {
 
 body {
     &[data-section=about] header nav li[data-section=about] a,
-    &[data-section=work] header nav li[data-section=work] a,
+    &[data-section=portfolio] header nav li[data-section=portfolio] a,
     &[data-section=contact] header nav li[data-section=contact] a {
         color: #FBE077;
         font-weight: bold;
