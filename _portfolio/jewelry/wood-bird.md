@@ -2,7 +2,7 @@
 layout: piece
 collection_: jewelry
 title: Wood Bird
-image: woord-bird.jpg
+image: wood-bird.jpg
 media: Mixed beads and paper
 dimensions: 9" hanging
 description: Blue and beige mixed beads including African paper beads, spacers, with brown white and black wooden bird and copper clasp.
