@@ -9,11 +9,11 @@ layout: portfolio
 <article id="collection">
     <nav>
         <ul>
-        {% for portfolio in works %}
+        {% for piece in works %}
         <li>
-            <h2><a href="{{site.baseurl}}{{portfolio.url }}">{{ portfolio.title | truncate:20,'...' }}</a></h2>
-            <a href="{{site.baseurl}}{{portfolio.url }}">
-              <img src="{{site.baseurl}}/images/portfolio/{{portfolio.collection_}}/{{portfolio.id}}.jpg" width="100" height="100">
+            <h2><a href="{{site.baseurl}}{{piece.url }}">{{ piece.title | truncate:20,'...' }}</a></h2>
+            <a href="{{site.baseurl}}{{piece.url }}">
+              <img src="{{site.baseurl}}/images/portfolio/{{piece.collection_}}/{{piece.id}}.thumb.jpg">
             </a>
         </li>
         {% endfor %}
