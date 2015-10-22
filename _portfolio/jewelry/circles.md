@@ -5,7 +5,7 @@ title: Circles
 image: circles.jpg
 media: Mixed beads
 dimensions: 9" hanging
-description: Wood, paper, clay and glass beads in varying sizes and colored.
+description: Wood, paper, clay and glass beads in varying sizes and colors.
 price: $15
 create_date: 2010
 ---

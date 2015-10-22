@@ -3,7 +3,7 @@ layout: piece
 collection_: beading
 title: A Touch of Africa
 image: a-touch-of-africa.jpg
-media: Metal, fabric, cut outdo, thread, ink, batik
+media: Metal, fabric, cut outs, thread, ink, batik
 description: Peyote Stitch encasing metal giraffe, with mixed fabrics, and cut out animals, quilted, matted in a maple glass frame 2 inches in depth.
 dimensions: 15" x 15½"
 price: $265
