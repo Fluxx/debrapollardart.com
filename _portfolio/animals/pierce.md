@@ -1,0 +1,11 @@
+---
+layout: piece
+collection_: animals
+title: Pierce
+image: pierce.jpg
+media: Crayon
+dimensions: 12" x 14"
+description: Melted crayon on onion skin in glassed maple 1" frame.
+price: $80
+create_date: 2013
+---
