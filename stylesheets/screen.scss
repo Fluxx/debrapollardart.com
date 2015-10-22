@@ -70,13 +70,13 @@ body {
                 @include navigation-list;
 
                 li {
-                    margin: 10px;
-                    width: 150px;
-                    height: 150px;
+                    margin: 16px;
+                    width: 160px;
+                    height: 160px;
 
                     img {
-                      max-width: 100px;
-                      max-height: 100px;
+                      max-width: 140px;
+                      max-height: 140px;
                     }
 
                     > a {
