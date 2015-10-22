@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Celine
-image: celine.jpg
+id: celine
 media: Acrylic
 dimensions: 8" x 10"
 description: Painted with popsicle sticks on board.

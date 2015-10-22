@@ -12,7 +12,9 @@ layout: portfolio
         {% for portfolio in works %}
         <li>
             <h2><a href="{{site.baseurl}}{{portfolio.url }}">{{ portfolio.title | truncate:20,'...' }}</a></h2>
-            <a href="{{site.baseurl}}{{portfolio.url }}"><img src="{{site.baseurl}}/images/portfolio/{{portfolio.collection_}}/{{portfolio.image}}" width="100" height="100"></a>
+            <a href="{{site.baseurl}}{{portfolio.url }}">
+              <img src="{{site.baseurl}}/images/portfolio/{{portfolio.collection_}}/{{portfolio.id}}.jpg" width="100" height="100">
+            </a>
         </li>
         {% endfor %}
         </ul>

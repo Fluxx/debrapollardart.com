@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Wild Run
-image: wild-run.jpg
+id: wild-run
 media:  Acrylic
 dimensions: 18" x 18"
 description: Painted on canvas.

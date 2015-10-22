@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Pride
-image: pride.jpg
+id: pride
 media: Acrylic
 dimensions: 23" x 34"
 description: Painted with popsicle sticks on cardboard.

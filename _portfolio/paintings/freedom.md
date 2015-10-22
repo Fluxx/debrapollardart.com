@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Freedom
-image: freedom.jpg
+id: freedom
 media: Acrylic
 dimensions: 8" x 11"
 description: Painted with popsicle sticks and brushes on board.

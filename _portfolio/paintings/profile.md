@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Profile
-image: profile.jpg
+id: profile
 media: Acrylic
 dimensions: 6" x 9"
 description: Painted with popsicle sticks on foam core.

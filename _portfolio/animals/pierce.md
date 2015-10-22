@@ -2,7 +2,7 @@
 layout: piece
 collection_: animals
 title: Pierce
-image: pierce.jpg
+id: pierce
 media: Crayon
 dimensions: 12" x 14"
 description: Melted crayon on onion skin in glassed maple 1" frame.

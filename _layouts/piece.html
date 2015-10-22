@@ -3,36 +3,38 @@ layout: portfolio
 ---
 
 <article class="piece">
-    <div class="info">
-        <h1>{{ page.title }}</h1>
-        <dl>
-            <dt>Media</dt>
-            <dd>{{ page.media }}</dd>
-            <dt>Description</dt>
-            <dd>{{ page.description }}</dd>
-            <dt>Dimensions</dt>
-            <dd>{{ page.dimensions }}</dd>
-            <dt>Price</dt>
-            <dd>{{ page.price }}</dd>
-            <dt>Created</dt>
-            <dd>{{ page.create_date }}</dd>
-            {% if page.availability and page.availability != 'sold' %}
-            <dt>Availability</dt>
-            <dd>
-                Only <strong>{{ page.availability | split:"," | array_to_sentence_string }}</strong>
-                available for purchase
-            </dd>
-            {% endif %}
-        </dl>
+  <div class="info">
+      <h1>{{ page.title }}</h1>
+      <dl>
+          <dt>Media</dt>
+          <dd>{{ page.media }}</dd>
+          <dt>Description</dt>
+          <dd>{{ page.description }}</dd>
+          <dt>Dimensions</dt>
+          <dd>{{ page.dimensions }}</dd>
+          <dt>Price</dt>
+          <dd>{{ page.price }}</dd>
+          <dt>Created</dt>
+          <dd>{{ page.create_date }}</dd>
+          {% if page.availability and page.availability != 'sold' %}
+          <dt>Availability</dt>
+          <dd>
+              Only <strong>{{ page.availability | split:"," | array_to_sentence_string }}</strong>
+              available for purchase
+          </dd>
+          {% endif %}
+      </dl>
 
-        {% if page.availability == 'sold' %}
-        <p class="sold">Sold</p>
-        {% else %}
-        <p class="buy"><a href="{{site.baseurl}}/contact">Buy</a></p>
-        {% endif %}
-        <nav><a href="{{site.baseurl}}/portfolio/{{page.collection_}}">&larr; Back to Collection</a></nav>
-    </div>
-    <img src="{{site.baseurl}}/images/portfolio/{{page.collection_}}/{{page.image}}">
+      {% if page.availability == 'sold' %}
+      <p class="sold">Sold</p>
+      {% else %}
+      <p class="buy"><a href="{{site.baseurl}}/contact">Buy</a></p>
+      {% endif %}
+      <nav><a href="{{site.baseurl}}/portfolio/{{page.collection_}}">&larr; Back to Collection</a></nav>
+  </div>
+  <a href="{{site.baseurl}}/images/portfolio/{{page.collection_}}/{{page.id}}.original.jpg" target="_blank">
+    <img src="{{site.baseurl}}/images/portfolio/{{page.collection_}}/{{page.id}}.jpg">
+  </a>
 </article>
 
 {{ content }}

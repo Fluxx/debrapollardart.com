@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Anna
-image: anna.jpg
+id: anna
 media: Watercolor, cardstock
 dimensions: 7" x 9" framed
 description: Painted on watercolor paper 4" x 6" in glassed maple frame 2" in depth.

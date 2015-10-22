@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Rosa
-image: rosa.jpg
+id: rosa
 media: Acrylic, foam core
 dimensions: 14" x 16"
 description:  Painted using popsicle sticks and brushes.

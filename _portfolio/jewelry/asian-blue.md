@@ -2,7 +2,7 @@
 layout: piece
 collection_: jewelry
 title: Asian Blue
-image: asian-blue.jpg
+id: asian-blue
 media: Mixed Beads
 dimensions: 8½" hanging
 description: Blue red mixed beads, clay and metal findings with beaded and button clasp.

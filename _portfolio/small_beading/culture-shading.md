@@ -2,7 +2,7 @@
 layout: piece
 collection_: small_beading
 title: Culture Shading
-image: culture-shading.jpg
+id: culture-shading
 media: Seed beads, molded faces fimo
 dimensions: A) 3" x 3", B) 3" x 4", C) 2 x 3"
 description: Peyote stitch.

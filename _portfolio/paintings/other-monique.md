@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Other Monique
-image: other-monique.jpg
+id: other-monique
 media: Acrylic on canvas
 dimensions: 12" x 14" framed
 description: Painted on glassed frame.

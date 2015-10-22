@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Ancestor
-image: ancestor.jpg
+id: ancestor
 media: Acrylic
 dimensions: 8" x 12"
 description: Painted with popsicle sticks.

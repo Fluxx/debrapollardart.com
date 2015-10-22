@@ -2,7 +2,7 @@
 layout: piece
 collection_: jewelry
 title: Earth Colors
-image: earth-colors.jpg
+id: earth-colors
 media: Mixed beads and metal
 dimensions: 8"
 description: Precious stones, African paper wrapped beads, copper clasp

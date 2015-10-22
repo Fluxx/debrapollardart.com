@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Heddy
-image: heddy.jpg
+id: heddy
 media: Acrylic and ink
 dimensions: 12" x 15"
 description: Painted with popsicle sticks.

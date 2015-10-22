@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Carina
-image: carina.jpg
+id: carina
 media: Ink, acrylic, wood, paste
 dimensions: 12" x 14" in a 3" frame
 description: Inked and painted with modeling paste and wall board mix.

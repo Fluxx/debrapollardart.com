@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Carol
-image: carol.jpg
+id: carol
 media: Acrylic
 dimensions: 9" x 9½"
 description: Painted with brushes on paper.

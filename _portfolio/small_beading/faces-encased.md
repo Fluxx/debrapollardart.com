@@ -2,7 +2,7 @@
 layout: piece
 collection_: small_beading
 title: Faces Encased
-image: faces-encased.jpg
+id: faces-encased
 media: Fimo and seed beads
 dimensions: A) 4" x 6", B) 3" x 3"
 description: Sculpted fimo from mold and seed beads, clay wood shapes and paint.

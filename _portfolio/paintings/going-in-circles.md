@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Going in Circles
-image: going-in-circles.jpg
+id: going-in-circles
 media: Acrylic and ink
 dimensions: 12" x 18"
 description:  Painted with popsicle sticks on cardboard.

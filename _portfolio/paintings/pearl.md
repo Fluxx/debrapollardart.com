@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Pearl
-image: pearl.jpg
+id: pearl
 media: Acrylic
 dimensions: 11" x 15"
 description: Painted with popsicle sticks on paper.

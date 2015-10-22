@@ -2,7 +2,7 @@
 layout: piece
 collection_: small_beading
 title: The Sun with Fish and Moon
-image: the-sun-with-fish-and-moon.jpg
+id: the-sun-with-fish-and-moon
 media: Fimo, wood, seed beads and stone
 dimensions: A) 3" x 3", B) 3" x 3", C) 3" x 3"
 description: Peyote stitch, paper clay hand painted, monotype.

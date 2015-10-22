@@ -2,7 +2,7 @@
 layout: piece
 collection_: beading
 title: Metallic Horse
-image: metallic-horse.jpg
+id: metallic-horse
 media: Beads, fabric, thread, found object
 dimensions: 15" x 17" framed
 description: Peyote stitch beading with quilted fabric with beige matt and 2 inch deep shadow box maple frame.

@@ -2,7 +2,7 @@
 layout: piece
 collection_: beading
 title: African Face Feeling the Red
-image: african-face-feeling-the-red.jpg
+id: african-face-feeling-the-red
 media: Fimo, seed beads, acrylic paint
 dimensions: 5½" x 5½"
 description: Face encased with peyote stitch technique on mono  type in glassed maple frame two inches in depth.

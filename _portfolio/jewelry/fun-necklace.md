@@ -2,7 +2,7 @@
 layout: piece
 collection_: jewelry
 title: Fun Necklace
-image: fun-necklace.jpg
+id: fun-necklace
 media: Beads and plastic
 dimensions: 11" in length
 description: Western plastic animals and boots, with blue, black, green, purple and red  colored beads, plus wire wrapped pendant with cowboy hat and beaded clasp.

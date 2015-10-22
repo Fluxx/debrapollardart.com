@@ -2,7 +2,7 @@
 layout: piece
 collection_: jewelry
 title: Pearl and Stone Dressy Necklace
-image: pearl-and-stone-dressy-necklace.jpg
+id: pearl-and-stone-dressy-necklace
 media: Mixed media beads
 dimensions: 24" total, 12" hanging
 description: Long hanging necklace with costume pearls of varying sizes, metal findings with amethyst.

@@ -2,7 +2,7 @@
 layout: piece
 collection_: beading
 title: I Love Pigs
-image: i-love-pigs.jpg
+id: i-love-pigs
 media: Beads, fabric, thread, found object
 dimensions: 15" x 18"
 description: Peyote stitch encasing pig with mixed fabric, quilted, matted in glassed maple frame 2 inches in depth.

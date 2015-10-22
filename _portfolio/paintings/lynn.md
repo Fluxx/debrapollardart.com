@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Lynn
-image: lynn.jpg
+id: lynn
 media: Watercolor, acrylic and ink
 dimensions: 11" x 15"
 description: Painted with popsicle sticks.

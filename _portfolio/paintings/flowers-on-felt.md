@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Flowers on Felt
-image: flowers-on-felt.jpg
+id: flowers-on-felt
 media: Acrylic and felt
 dimensions: 8" x 11"
 description: Monotype.

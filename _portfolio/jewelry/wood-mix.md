@@ -2,7 +2,7 @@
 layout: piece
 collection_: jewelry
 title: Wood Mix
-image: wood-mix.jpg
+id: wood-mix
 media: Clay and paper beads
 dimensions: 11" hanging
 description: Pendant with wood beads plus African wrapped paper beads mixed with thin wood beads, metal button clasp.

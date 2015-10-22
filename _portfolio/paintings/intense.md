@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Intense
-image: intense.jpg
+id: intense
 media: Acrylic and textured paper
 dimensions: 5" x 5"
 description: Painted with acrylic and collaged textured papers.

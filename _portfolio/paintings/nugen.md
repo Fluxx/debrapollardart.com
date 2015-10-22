@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Nugen
-image: nugen.jpg
+id: nugen
 media: Acrylic and ink
 dimensions: 11" x 11"
 description: Painted with popsicle sticks on paper.

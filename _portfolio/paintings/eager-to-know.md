@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Kim
-image: kim.jpg
+id: kim
 media: Watercolor and acrylic
 dimensions: 10" x 15½"
 description: Mixed media with brushes and popsicle sticks.

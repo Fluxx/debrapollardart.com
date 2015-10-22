@@ -2,7 +2,7 @@
 layout: piece
 collection_: jewelry
 title: Metal Pendant
-image: metal-pendant.jpg
+id: metal-pendant
 media: Mixed Beads
 dimensions: 10½"
 description: Red beads, spacers, copper mini rings, copper brass findings, metal and clay pendant.

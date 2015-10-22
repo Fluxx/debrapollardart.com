@@ -2,7 +2,7 @@
 layout: piece
 collection_: jewelry
 title: Horse and Horsehoe
-image: horse-and-horseshoe.jpg
+id: horse-and-horseshoe
 media: Mixed metal, beads with findings
 dimensions: 14" hung
 description: Metal, wire wrapped, sterling silver charms with metal and brass.

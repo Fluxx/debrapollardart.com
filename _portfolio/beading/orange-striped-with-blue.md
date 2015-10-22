@@ -2,7 +2,7 @@
 layout: piece
 collection_: beading
 title: Orange Striped with Blue
-image: orange-striped-with-blue.jpg
+id: orange-striped-with-blue
 media: Beads, material, thread
 description: Peyote stitch beading encasing beaded object, mixed media fabrics with quilted design in a glassed maple frame two inches in depth.
 dimensions: 15" x 15½"

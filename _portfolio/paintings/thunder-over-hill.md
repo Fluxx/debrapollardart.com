@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Thunder Over Hill
-image: thunder-over-hill.jpg
+id: thunder-over-hill
 media:  Acrylic
 dimensions: 18" x 24"
 description: Painted on canvas.

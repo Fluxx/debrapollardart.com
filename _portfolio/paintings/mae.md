@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Mae
-image: mae.jpg
+id: mae
 media: Acrylic
 dimensions: 19" x 24"
 description: Painted with popsicle sticks on board.

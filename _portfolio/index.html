@@ -14,7 +14,7 @@ Art has always been a passion for me from a very early early age. Through the ja
         <a href="{{site.baseurl}}/portfolio/{{ c.collection_ }}">
             {% assign sample = site.portfolio | where:"layout","piece" | where:"collection_",c.collection_ | first %}
             <h2>{{ c.title }}</h2>
-            <img src="{{site.baseurl}}/images/portfolio/{{sample.collection_}}/{{sample.image}}">
+            <img src="{{site.baseurl}}/images/portfolio/{{sample.collection_}}/{{sample.id}}".jpg>
         </a>
     </li>
     {% endfor %}

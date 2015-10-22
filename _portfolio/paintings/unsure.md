@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Unsure
-image: unsure.jpg
+id: unsure
 media: Acrylic and ink
 dimensions: 22½" x 30"
 description: Mixed media. Painted with popsicle sticks on board.

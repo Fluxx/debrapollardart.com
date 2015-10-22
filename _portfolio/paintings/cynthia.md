@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Cynthia
-image: cynthia.jpg
+id: cynthia
 media: Acrylic
 dimensions: 16" x 16"
 description: Painted with popsicle sticks on board.

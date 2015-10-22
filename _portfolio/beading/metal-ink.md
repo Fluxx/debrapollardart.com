@@ -2,7 +2,7 @@
 layout: piece
 collection_: beading
 title: Metal Ink
-image: metal-ink.jpg
+id: metal-ink
 media: Beads, metal, stone, fabric, thread
 description: Stone and metal relief encased in peyote stitched beads, quilted fabric matted in glassed maple frame 2 inches in depth.
 dimensions: 19" x 22"

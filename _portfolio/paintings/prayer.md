@@ -2,7 +2,7 @@
 layout: piece
 collection_: paintings
 title: Prayer
-image: prayer.jpg
+id: prayer
 media: Acrylic
 dimensions: 14" x 17"
 description: Painted with popsicle sticks on board.
