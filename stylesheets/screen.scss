@@ -70,7 +70,7 @@ body {
                 @include navigation-list;
 
                 li {
-                    margin: 16px;
+                    margin: 16px 8px 16px 16px;
                     width: 160px;
                     height: 160px;
 
@@ -84,7 +84,7 @@ body {
                     }
 
                     h2 {
-                        font-size: 90%;
+                        font-size: 85%;
                         margin: 0 0 10px 0;
                     }
                 }
