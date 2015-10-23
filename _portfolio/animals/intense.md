@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: paintings
+collection_: animals
 title: Intense
 id: intense
 media: Acrylic and textured paper

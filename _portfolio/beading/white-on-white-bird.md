@@ -4,8 +4,8 @@ collection_: beading
 title: White on White Bird
 id: white-on-white-bird
 media: Paper Clay, seed beads, mini pearls, threads
-dimensions: Unframed actual 13" x 16". Frame 20" x 23" with gray matt glassed in maple frame 2 inches deep
-description: Hand designed embossed bird on clay paper encased in peyote stitch seed and metal beads with pearl accents, mixed white on white fabric and quilted stitching.
+dimensions: 20" x 23" framed
+description: Hand designed embossed bird on clay paper, encased in peyote stitch, seed and metal beads with pearl accents, mixed white on white fabric and quilted stitching, matted in glassed in maple frame 2" deep.
 price: $900
 create_date: 2013
 ---

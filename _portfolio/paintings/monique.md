@@ -8,4 +8,5 @@ dimensions: 18" x 20" framed
 description: Acrylic watercolor and ink using popsicle sticks on cardboard.
 price: $300
 create_date: 2011
+availability: sold
 ---

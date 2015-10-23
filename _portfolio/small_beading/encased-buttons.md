@@ -1,8 +1,8 @@
 ---
 layout: piece
 collection_: small_beading
-title: Head flower, Etched, Glitter
-id: head-flower-etched-glitter
+title: Encased Buttons
+id: encased-buttons
 media: Seed beads, fimo
 dimensions: A) 3" x 3", B) 3" x 3½", C) 3 x 3½"
 description: Seed beads peyote, molded faces, and stained carved face, with jewels and adornment.
