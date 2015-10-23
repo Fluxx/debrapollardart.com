@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: paintings
+collection_: animals
 title: Thunder Over Hill
 id: thunder-over-hill
 media:  Acrylic

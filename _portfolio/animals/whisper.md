@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: paintings
+collection_: animals
 title: Whisper
 id: whisper
 media: Crayon, onion skin

@@ -1,11 +1,11 @@
 ---
 layout: piece
-collection_: paintings
-title: Wild Run
-id: wild-run
+collection_: animals
+title: Chewing Grass
+id: chewing-grass
 media:  Acrylic
 dimensions: 18" x 18"
 description: Painted on canvas.
-price: $100
+price: $150
 create_date: 2011
 ---
