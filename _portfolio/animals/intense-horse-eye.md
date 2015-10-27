@@ -1,8 +1,8 @@
 ---
 layout: piece
 collection_: animals
-title: Intense
-id: intense
+title: Intense Horse Eye
+id: intense-horse-eye
 media: Acrylic and textured paper
 dimensions: 5" x 5"
 description: Painted with acrylic and collaged textured papers.
