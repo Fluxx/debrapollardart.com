@@ -1,11 +1,11 @@
 ---
 layout: piece
 collection_: jewelry
-title: circles
-id: circles
-media: Mixed beads
+title: Sparkle
+id: sparkle
+media: Crystals
 dimensions: 9" hanging
-description: Wood, paper, clay and glass beads in varying sizes and colored.
-price: $15
+description: Mixed colors and sizes of crystal, chain and metal clasp. 10" hanging.
+price: $35
 create_date: 2013
 ---
