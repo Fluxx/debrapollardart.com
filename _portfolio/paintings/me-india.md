@@ -1,7 +1,7 @@
 ---
 layout: piece
 collection_: paintings
-title: Me;India
+title: Melindia
 id: me-india
 media: Acrylic
 dimensions: 9" x 9"

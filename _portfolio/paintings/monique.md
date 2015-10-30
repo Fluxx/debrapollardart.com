@@ -3,7 +3,7 @@ layout: piece
 collection_: paintings
 title: Monique
 id: monique
-media: Watercolor, ink , acrylic, ink and populace sticks
+media: Watercolor, ink, acrylic, ink and popsicle sticks
 dimensions: 18" x 20" framed
 description: Acrylic watercolor and ink using popsicle sticks on cardboard.
 price: $300
