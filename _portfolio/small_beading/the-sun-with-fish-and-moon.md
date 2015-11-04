@@ -8,5 +8,5 @@ dimensions: A) 3" x 3", B) 3" x 3", C) 3" x 3"
 description: Peyote stitch, paper clay hand painted, monotype.
 price: A) $20, B) $30, C) $30
 availability: A, B
-date_created: 2014
+date_created: 2012
 ---
