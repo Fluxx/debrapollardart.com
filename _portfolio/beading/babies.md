@@ -8,4 +8,5 @@ description: Peyote stitch encasing 7 babies using various colored beads, quilte
 dimensions: 18" x 19½"
 price: $590
 create_date: 2013
+availability: sold
 ---
