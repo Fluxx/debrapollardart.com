@@ -8,4 +8,5 @@ dimensions: 18" x 18"
 description: Painted on canvas.
 price: $150
 create_date: 2011
+availability: sold
 ---
