@@ -8,4 +8,5 @@ dimensions: 5½" x 5½"
 description: Face encased with peyote stitch technique on mono  type in glassed maple frame two inches in depth.
 price: $125
 create_date: 2015
+availability: sold
 ---
