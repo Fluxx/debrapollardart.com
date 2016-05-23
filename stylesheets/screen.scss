@@ -105,6 +105,36 @@ body {
                         font-size: 90%;
                         margin: 0 0 10px 0;
                     }
+
+                    &[data-availability=sold]:hover {
+                        img {
+                            opacity: 0.15;
+                        }
+                        dd {
+                            color: darken($highlight-color, 5%);
+                            font-size: 120%;
+                            display: block;
+                            margin-left: $gutter;
+                            font-weight: bold;
+                            text-shadow: 2px 2px 3px #DCDCDC;
+                        }
+                    }
+
+                    dl {
+                        position: absolute;
+                        margin-top: 45px;
+
+                        dt {
+                            display: none;
+                        }
+
+                        dd {
+                            display: none;
+                            color: highlight-color;
+                            text-transform: capitalize;
+                        }
+                    }
+
                 }
             }
         }
