@@ -35,6 +35,24 @@ body {
         &:hover {text-decoration: underline;}
     }
 
+    &[data-section=contact] {
+      address {
+        font-style: normal;
+
+        dt {
+          font-weight: bold;
+        }
+
+        dd {
+          margin: 0;
+
+          & + dt {
+            margin-top: 1em;
+          }
+        }
+      }
+    }
+
     &[data-section=about] {
         img {
             float: right;
