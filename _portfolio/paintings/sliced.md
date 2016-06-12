@@ -2,7 +2,6 @@
 layout: piece
 collection_: paintings
 title: Sliced
-id: sliced
 media: Acrylic
 dimensions: 18" x 20"
 description: Painted with popsicle sticks on corrugated board.

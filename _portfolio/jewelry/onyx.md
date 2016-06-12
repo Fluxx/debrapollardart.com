@@ -2,7 +2,6 @@
 layout: piece
 collection_: jewelry
 title: Onyx
-id: onyx
 media: Black onyx
 dimensions: 28" full size
 description: Long hanging necklace with polish black onyx and metal beads and clasp.

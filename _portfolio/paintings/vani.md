@@ -2,7 +2,6 @@
 layout: piece
 collection_: paintings
 title: Vani
-id: vani
 media: Acrylic
 dimensions: 8½ x 11
 description: Painted with popsicle sticks on board.

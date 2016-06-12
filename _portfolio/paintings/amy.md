@@ -2,7 +2,6 @@
 layout: piece
 collection_: paintings
 title: Amy
-id: amy
 media: Acrylic
 dimensions: 10" x 11"
 description: Painted with popsicle sticks with monotype.

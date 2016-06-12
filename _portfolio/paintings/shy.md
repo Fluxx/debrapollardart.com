@@ -2,7 +2,6 @@
 layout: piece
 collection_: paintings
 title: Shy
-id: shy
 media: Watercolor, acrylic and ink
 dimensions: 11" x 15"
 description: Painted with popsicle sticks.

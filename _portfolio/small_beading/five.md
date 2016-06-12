@@ -2,7 +2,6 @@
 layout: piece
 collection_: small_beading
 title: Five
-id: five
 media: Molded fimo faces
 dimensions: A) 4" x 4", B) 2½" x 2½", C) 3½" x 3½", D) 2" x 2", E) 4" x 5"
 description: Watercolor, acrylic, hand painted molded faces in fimo, glazed with wood and peyote seed beads.

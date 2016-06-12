@@ -2,7 +2,6 @@
 layout: piece
 collection_: paintings
 title: Sky Blue
-id: sky-blue
 media: Acrylic
 dimensions: 14" x 15"
 description: Painted with popsicle sticks on corrugated cardboard.

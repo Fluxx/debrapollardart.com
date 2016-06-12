@@ -2,7 +2,6 @@
 layout: piece
 collection_: paintings
 title: Judy
-id: judy
 media: Acrylic
 dimensions: 18" x 18"
 description:  Painted with popsicle sticks on canvas.

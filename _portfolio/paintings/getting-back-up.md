@@ -2,7 +2,6 @@
 layout: piece
 collection_: paintings
 title: Getting Back Up
-id: getting-back-up
 media: Acrylic, ink, paper
 dimensions: 11" x 15"
 description: Painted with acrylic using popsicle sticks.

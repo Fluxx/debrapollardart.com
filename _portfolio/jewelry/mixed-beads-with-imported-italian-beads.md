@@ -2,7 +2,6 @@
 layout: piece
 collection_: jewelry
 title: Mixed Beads with Imported Italian Beads
-id: mixed-beads-with-imported-italian-beads
 media: Beads
 dimensions: 18" full length, 9" hanging
 description: Hand painted, clay, multicolored beads of blues, brown, orange, green, black with multiple designs and bead, findings and button clasp.

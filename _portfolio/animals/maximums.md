@@ -2,7 +2,6 @@
 layout: piece
 collection_: animals
 title: Maximums
-id: maximums
 media: Acrylic
 dimensions: 11" x 13"
 description: Layered acrylic and painted with popsicle sticks.

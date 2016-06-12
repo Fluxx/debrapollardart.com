@@ -2,7 +2,6 @@
 layout: piece
 collection_: animals
 title: Mare
-id: mare
 media: Crayon on paper
 dimensions: 12" x 13" framed
 description: Melted crayon in glassed maple frame 2" in depth.

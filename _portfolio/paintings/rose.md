@@ -2,7 +2,6 @@
 layout: piece
 collection_: paintings
 title: Rose
-id: rose
 media: Acrylic and ink
 dimensions: 16" x 19"
 description: Painted with popsicle sticks on board.

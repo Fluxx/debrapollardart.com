@@ -2,7 +2,6 @@
 layout: piece
 collection_: paintings
 title: Gritty
-id: gritty
 media: Acrylic
 dimensions: 15" x 15"
 description: Painted with popsicle sticks on board.

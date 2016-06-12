@@ -2,7 +2,6 @@
 layout: piece
 collection_: mixed_media
 title: Spring
-id: spring
 media: Crayon, paper
 dimensions: 9" x 11"
 description: Melted crayon on drawing paper.
