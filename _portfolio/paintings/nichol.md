@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: paintings
+collection_: paintings
 title: Nichol
 id: nichol
 media: Acrylic

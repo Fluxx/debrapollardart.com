@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: paintings
+collection_: paintings
 title: Determined
 id: determined
 media: Acrylic and ink

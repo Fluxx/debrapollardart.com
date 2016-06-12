@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Beaded Lady
 id: beaded-lady
 media: Metal, beads, acrylic paint

@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: jewelry
+collection_: jewelry
 title: Onyx
 id: onyx
 media: Black onyx

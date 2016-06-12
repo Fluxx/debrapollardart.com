@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: paintings
+collection_: paintings
 title: Blair
 id: blair
 media: Watercolor and ink

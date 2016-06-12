@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: jewelry
+collection_: jewelry
 title: Multi Strands
 id: multi-strands
 media: Mixed beads

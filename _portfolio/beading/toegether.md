@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Together
 id: together
 media: Painted wood found objects, miniatures, seed beads, material, thread

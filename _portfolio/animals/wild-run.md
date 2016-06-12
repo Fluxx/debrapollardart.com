@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: animals
+collection_: animals
 title: Wild Run
 id: wild-run
 media:  Acrylic

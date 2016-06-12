@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: jewelry
+collection_: jewelry
 title: Mixed Color African Paper
 id: mixed-color-african-paper
 media: Mixed beads

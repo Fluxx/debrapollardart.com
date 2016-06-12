@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: paintings
+collection_: paintings
 title: Pensive
 id: pensive
 media: Acrylic and watercolor

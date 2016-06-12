@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: paintings
+collection_: paintings
 title: Unphased
 id: unphased
 media: Acrylic and ink

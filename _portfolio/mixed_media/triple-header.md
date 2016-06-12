@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: mixed_media
+collection_: mixed_media
 title: Triple Header
 id: triple-header
 media: Ink, watercolor, acrylic and thread

@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Ceramic Heart
 id: ceramic-heart
 media: Glazed ceramic, beads, fabric and threads

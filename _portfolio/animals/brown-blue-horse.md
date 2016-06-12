@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: animals
+collection_: animals
 title: Brown Blue Horse
 id: brown-blue-horse
 media: Crayon

@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Hold Up
 id: hold-up
 media: Hand crafted  metal, and clay metal, seed beads sequins, thread, fabric, paper hearts, red jewels

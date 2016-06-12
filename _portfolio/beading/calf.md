@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Calf
 id: calf
 media: Beads, fabric, thread

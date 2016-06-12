@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: jewelry
+collection_: jewelry
 title: Fall Colors
 id: fall-colors
 media: Mixed beads and metal

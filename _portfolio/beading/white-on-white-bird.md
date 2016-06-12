@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: White on White Bird
 id: white-on-white-bird
 media: Paper Clay, seed beads, mini pearls, threads

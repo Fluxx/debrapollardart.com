@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: small_beading
+collection_: small_beading
 title: Faces Encased
 id: faces-encased
 media: Fimo and seed beads

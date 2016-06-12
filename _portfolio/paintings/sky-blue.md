@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: paintings
+collection_: paintings
 title: Sky Blue
 id: sky-blue
 media: Acrylic

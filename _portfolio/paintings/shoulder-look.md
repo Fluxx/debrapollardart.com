@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: paintings
+collection_: paintings
 title: Shoulder Look
 id: shoulder-look
 media: Watercolor, Ink, Acrylic, popsicle sticks

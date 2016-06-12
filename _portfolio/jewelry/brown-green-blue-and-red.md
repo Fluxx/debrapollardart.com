@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: jewelry
+collection_: jewelry
 title: Brown Green Blue and Red
 id: brown-green-blue-and-red
 media: Mixed beads

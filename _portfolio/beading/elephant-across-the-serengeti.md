@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Elephant Across the Serengeti
 id: elephant-across-the-serengeti
 media: Found object, seed beads, thread

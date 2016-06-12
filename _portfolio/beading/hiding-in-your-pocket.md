@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Hiding In Your Pocket
 id: hiding-in-your-pocket
 media: Glass beads, ceramic clay glazed, material, antique buttons, fabric, thread

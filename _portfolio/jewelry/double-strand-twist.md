@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: jewelry
+collection_: jewelry
 title: Double Strand Twist
 id: double-strand-twist
 media: Wood, stone, plastic, metal

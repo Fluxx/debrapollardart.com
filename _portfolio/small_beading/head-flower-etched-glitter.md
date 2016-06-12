@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: small_beading
+collection_: small_beading
 title: Head flower, Etched, Glitter
 id: head-flower-etched-glitter
 media: Seed beads, fimo

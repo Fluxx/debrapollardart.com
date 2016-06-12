@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: animals
+collection_: animals
 title: White Horse
 id: white-horse
 media: Crayon

@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Zebra
 id: zebra
 media: Beads, fabric, photographs on cotton, threads, found object

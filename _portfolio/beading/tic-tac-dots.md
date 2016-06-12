@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Tic Tac Dots
 id: tic-tac-dots
 media: Jewelry, seed beads, embossed, cardboard

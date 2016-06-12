@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: paintings
+collection_: paintings
 title: Anna
 id: anna
 media: Watercolor, cardstock

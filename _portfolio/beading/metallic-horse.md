@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Metallic Horse
 id: metallic-horse
 media: Beads, fabric, thread, found object

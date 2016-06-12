@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Rose and Blue Flowers
 id: rose-and-blue-flowers
 media: Jewel object, beads, fabric, thread

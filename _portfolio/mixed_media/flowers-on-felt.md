@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: mixed_media
+collection_: mixed_media
 title: Flowers on Felt
 id: flowers-on-felt
 media: Acrylic and felt

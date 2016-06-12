@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: jewelry
+collection_: jewelry
 title: Wood Bird
 id: wood-bird
 media: Mixed beads and paper

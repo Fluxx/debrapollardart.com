@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: paintings
+collection_: paintings
 title: Monique
 id: monique
 media: Watercolor, ink, acrylic, ink and popsicle sticks

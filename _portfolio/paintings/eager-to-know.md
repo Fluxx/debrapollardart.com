@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: paintings
+collection_: paintings
 title: Kim
 id: kim
 media: Watercolor and acrylic

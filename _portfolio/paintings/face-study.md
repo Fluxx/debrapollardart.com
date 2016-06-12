@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: paintings
+collection_: paintings
 title: Face Study
 id: face-study
 media: Ink, watercolor, threads on cardstock

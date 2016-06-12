@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Jewels x 4
 id: jewels-x-4
 media: Jewelry, metal beads, fabric, thread

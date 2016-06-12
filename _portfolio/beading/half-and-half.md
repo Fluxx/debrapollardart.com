@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Half and Half
 id: half-and-half
 media: Clay flower beads, seed beads, fabric and thread

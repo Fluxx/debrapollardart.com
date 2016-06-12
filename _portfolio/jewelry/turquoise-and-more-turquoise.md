@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: jewelry
+collection_: jewelry
 title: Turquoise and More Turquoise
 id: turquoise-and-more-turquoise
 media: Turquoise and metal

@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Cute Funny Face
 id: cute-funny-face
 media: Paper clay, paper mache, acrylic paint, seed beads, fabric, thread

@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Snug as a baby
 id: snug-as-a-baby
 media: Fimo, beads, fabric, thread, jewels, cut outs

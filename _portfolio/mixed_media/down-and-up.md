@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: mixed_media
+collection_: mixed_media
 title: Down and Up
 id: down-and-up
 media: Ink, watercolor, acrylic, thread

@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: There Was an Old Women Who Lived in a Shoe
 id: there-was-an-old-women-who-lived-in-a-shoe
 media: Seed beads, found objects, fimo, wood, cloth, threads

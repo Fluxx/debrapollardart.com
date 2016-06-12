@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: paintings
+collection_: paintings
 title: Rosa
 id: rosa
 media: Acrylic, foam core

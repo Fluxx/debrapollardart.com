@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: animals
+collection_: animals
 title: Horse with the Look
 id: horse-with-the-look
 media: Crayon

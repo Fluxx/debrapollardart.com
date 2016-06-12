@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: animals
+collection_: animals
 title: Black Horse Against Color
 id: black-horse-against-color
 media: Crayon

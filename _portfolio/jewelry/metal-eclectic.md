@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: jewelry
+collection_: jewelry
 title: Metal Eclectic
 id: metal-eclectic
 media:  Mixed metal charms

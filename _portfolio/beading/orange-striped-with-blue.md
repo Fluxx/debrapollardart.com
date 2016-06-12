@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Orange Striped with Blue
 id: orange-striped-with-blue
 media: Beads, material, thread

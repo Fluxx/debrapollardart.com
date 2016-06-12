@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: jewelry
+collection_: jewelry
 title: Fence
 id: fence
 media: Mixed beads, metal button

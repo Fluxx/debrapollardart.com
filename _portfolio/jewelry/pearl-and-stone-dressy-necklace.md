@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: jewelry
+collection_: jewelry
 title: Pearl and Stone Dressy Necklace
 id: pearl-and-stone-dressy-necklace
 media: Mixed media beads

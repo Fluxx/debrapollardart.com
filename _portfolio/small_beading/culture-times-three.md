@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: small_beading
+collection_: small_beading
 title: Culture Times Three
 id: culture-times-three
 media: Seed beads

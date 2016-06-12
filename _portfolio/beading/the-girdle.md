@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: The Girdle
 id: the-girdle
 media: Metal, seed beads

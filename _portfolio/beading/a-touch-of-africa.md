@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: A Touch of Africa
 id: a-touch-of-africa
 media: Metal, fabric, cut outs, thread, ink, batik

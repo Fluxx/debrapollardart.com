@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Starfish
 id: starfish
 media: Beads, fabric, thread

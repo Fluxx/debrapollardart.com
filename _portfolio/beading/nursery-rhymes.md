@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Nursery Rhymes
 id: nursery-rhymes
 media: Beads, found objects

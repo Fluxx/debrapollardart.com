@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Africa Needs
 id: africa-needs
 media: Beads, wooden face, fabric, threads

@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: paintings
+collection_: paintings
 title: Monique Two
 id: monique-two
 media: Acrylic on canvas

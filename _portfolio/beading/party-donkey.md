@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Party Donkey
 id: party-donkey
 media: Found object, seed beads, fabric, ribbon, threads

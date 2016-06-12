@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: paintings
+collection_: paintings
 title: Lynn
 id: lynn
 media: Watercolor, acrylic and ink

@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: jewelry
+collection_: jewelry
 title: Red Pendant
 id: red-pendant
 media:  Seed beads, mixed beads, metals and wood

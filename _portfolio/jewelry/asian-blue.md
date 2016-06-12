@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: jewelry
+collection_: jewelry
 title: Asian Blue
 id: asian-blue
 media: Mixed Beads

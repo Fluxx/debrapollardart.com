@@ -10,11 +10,11 @@ Art has always been a passion for me from a very early early age. Through the ja
 
 <ul id="collections">
     {% for c in collections %}
-    <li data-collection="{{c.colection_name}}">
-        <a href="{{site.baseurl}}/portfolio/{{ c.colection_name }}">
-            {% assign sample = site.portfolio | where:"layout","piece" | where:"colection_name",c.colection_name | first %}
+    <li data-collection="{{c.collection_}}">
+        <a href="{{site.baseurl}}/portfolio/{{ c.collection_ }}">
+            {% assign sample = site.portfolio | where:"layout","piece" | where:"collection_",c.collection_ | first %}
             <h2>{{ c.title }}</h2>
-            <img src="{{site.baseurl}}/images/portfolio/{{sample.colection_name}}/{{sample.id}}.thumb.jpg">
+            <img src="{{site.baseurl}}/images/portfolio/{{sample.collection_}}/{{sample.id}}.thumb.jpg">
         </a>
     </li>
     {% endfor %}

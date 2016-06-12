@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: jewelry
+collection_: jewelry
 title: Horse and Horsehoe
 id: horse-and-horseshoe
 media: Mixed metal, beads with findings

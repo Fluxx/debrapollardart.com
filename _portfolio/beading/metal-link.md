@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: Metal Link
 id: metal-link
 media: Beads, metal, stone, fabric, thread

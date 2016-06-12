@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: paintings
+collection_: paintings
 title: Lizzy
 id: lizzy
 media: Acrylic

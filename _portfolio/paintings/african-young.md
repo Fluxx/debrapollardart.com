@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: paintings
+collection_: paintings
 title: African Young
 id: african-young
 media: Acrylic on paper

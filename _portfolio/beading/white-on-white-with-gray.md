@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: White on White with Gray
 id: white-on-white-with-gray
 media: Clay Paper, metal and seed beads, fabric, threads

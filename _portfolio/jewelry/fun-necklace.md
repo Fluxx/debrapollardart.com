@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: jewelry
+collection_: jewelry
 title: Fun Necklace
 id: fun-necklace
 media: Beads and plastic

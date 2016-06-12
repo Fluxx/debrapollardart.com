@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: beading
+collection_: beading
 title: I Love Pigs
 id: i-love-pigs
 media: Beads, fabric, thread, found object

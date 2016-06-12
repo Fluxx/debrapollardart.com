@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: jewelry
+collection_: jewelry
 title: Turquoise Pendant
 id: turquoise-pendant
 media: Mixed beads

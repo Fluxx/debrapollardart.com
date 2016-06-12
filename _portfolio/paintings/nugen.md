@@ -1,6 +1,6 @@
 ---
 layout: piece
-colection_name: paintings
+collection_: paintings
 title: Nugen
 id: nugen
 media: Acrylic and ink
