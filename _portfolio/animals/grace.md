@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: animals
+colection_name: animals
 title: Grace
 id: grace
 media: Crayon, onion skin

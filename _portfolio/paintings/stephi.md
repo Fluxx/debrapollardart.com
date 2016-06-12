@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: paintings
+colection_name: paintings
 title: Stephi
 id: stephi
 media: Acrylic

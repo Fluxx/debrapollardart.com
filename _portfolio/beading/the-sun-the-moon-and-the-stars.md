@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+colection_name: beading
 title: The Sun the Moon and the Stars
 id: the-sun-the-moon-and-the-stars
 media: Jewel, metal, beads, fabric, threads

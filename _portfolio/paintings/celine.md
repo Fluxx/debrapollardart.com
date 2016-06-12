@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: paintings
+colection_name: paintings
 title: Celine
 id: celine
 media: Acrylic

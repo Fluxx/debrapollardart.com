@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: mixed_media
+colection_name: mixed_media
 title: Three Styles of Happy
 id: three-styles-of-happy
 media: Ink, watercolor, acrylic, thread

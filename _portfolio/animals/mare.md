@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: animals
+colection_name: animals
 title: Mare
 id: mare
 media: Crayon on paper

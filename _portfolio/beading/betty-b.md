@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+colection_name: beading
 title: Betty B
 id: betty-b
 media: Common button, fabric, thread, beads

@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: jewelry
+colection_name: jewelry
 title: Fimo Mixed Beads Necklace
 id: fimo-mixed-beads-necklace
 media: Fimo and copper clasp

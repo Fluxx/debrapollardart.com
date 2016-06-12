@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+colection_name: beading
 title: Pete
 id: pete
 media: Beads, fabric, threads

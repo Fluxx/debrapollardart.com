@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: animals
+colection_name: animals
 title: Intense Horse Eye
 id: intense-horse-eye
 media: Acrylic and textured paper on canvas

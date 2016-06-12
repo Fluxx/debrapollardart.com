@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: mixed_media
+colection_name: mixed_media
 title: Mixed Fabric
 id: mixed-fabric
 media: Button, material, ink, jewels

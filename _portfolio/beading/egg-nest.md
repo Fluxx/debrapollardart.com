@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+colection_name: beading
 title: Egg Nest
 id: egg-nest
 media: Bead, batting and fabric, threads

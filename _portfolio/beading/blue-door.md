@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+colection_name: beading
 title: Blue Door
 id: blue-door
 media: Fimo, seed beads

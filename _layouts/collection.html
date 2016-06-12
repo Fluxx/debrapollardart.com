@@ -4,7 +4,7 @@ layout: portfolio
 
 {{ content }}
 
-{% assign works = site.portfolio | where:"layout","piece" | where:"collection_",page.collection_ %}
+{% assign works = site.portfolio | where:"layout","piece" | where:"colection_name",page.colection_name %}
 
 <article id="collection">
     <nav>
@@ -17,7 +17,7 @@ layout: portfolio
             </dl>
             <h2><a href="{{site.baseurl}}{{piece.url }}">{{ piece.title | truncate:20,'...' }}</a></h2>
             <a href="{{site.baseurl}}{{piece.url }}">
-              <img src="{{site.baseurl}}/images/portfolio/{{piece.collection_}}/{{piece.id}}.thumb.jpg">
+              <img src="{{site.baseurl}}/images/portfolio/{{piece.colection_name}}/{{piece.id}}.thumb.jpg">
             </a>
         </li>
         {% endfor %}

@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: jewelry
+colection_name: jewelry
 title: Wood Mix
 id: wood-mix
 media: Clay and paper beads

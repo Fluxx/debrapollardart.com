@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: jewelry
+colection_name: jewelry
 title: Turqoise and Green Stands
 id: turquoise-and-green-stands
 media: Mixed beads, stones

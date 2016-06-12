@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+colection_name: beading
 title: Blue with Wire Wrap
 id: blue-with-wire-wrap
 media: Beads, mixed fabrics, thread, wire, stone

@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: paintings
+colection_name: paintings
 title: Going in Circles
 id: going-in-circles
 media: Acrylic and ink

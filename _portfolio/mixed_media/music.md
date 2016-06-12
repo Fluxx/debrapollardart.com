@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: mixed_media
+colection_name: mixed_media
 title: Music
 id: music
 media: Mixed, paper, fabric, material, thread

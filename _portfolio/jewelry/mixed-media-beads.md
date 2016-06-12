@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: jewelry
+colection_name: jewelry
 title: Mixed Media Beads
 id: mixed-media-beads
 media: Beads

@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: paintings
+colection_name: paintings
 title: Cynthia
 id: cynthia
 media: Acrylic

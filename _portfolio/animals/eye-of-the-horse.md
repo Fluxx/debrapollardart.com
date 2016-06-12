@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: animals
+colection_name: animals
 title: Eye of the Horse
 id: eye-of-the-horse
 media: Crayon, onion skin paper

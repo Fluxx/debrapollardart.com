@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: mixed_media
+colection_name: mixed_media
 title: Spring
 id: spring
 media: Crayon, paper

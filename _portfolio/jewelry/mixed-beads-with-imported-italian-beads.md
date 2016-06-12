@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: jewelry
+colection_name: jewelry
 title: Mixed Beads with Imported Italian Beads
 id: mixed-beads-with-imported-italian-beads
 media: Beads

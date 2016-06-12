@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+colection_name: beading
 title: Trio of Jewels
 id: trio-of-jewels
 media: Jewelry, seed beads

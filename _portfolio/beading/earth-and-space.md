@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+colection_name: beading
 title: Earth and Space
 id: earth-and-space
 media: Fabric, thread, seed bead and metal

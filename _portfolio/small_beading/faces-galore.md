@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: small_beading
+colection_name: small_beading
 title: Faces Galore
 id: faces-galore
 media: Fimo and seed beads

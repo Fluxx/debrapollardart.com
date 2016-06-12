@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+colection_name: beading
 title: Horse and Fence
 id: horse-and-fence
 media: Seed and metal beads, fabric, thread, found object

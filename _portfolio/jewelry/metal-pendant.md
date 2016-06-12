@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: jewelry
+colection_name: jewelry
 title: Metal Pendant
 id: metal-pendant
 media: Mixed Beads

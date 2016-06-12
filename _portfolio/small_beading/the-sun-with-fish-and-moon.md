@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: small_beading
+colection_name: small_beading
 title: The Sun with Fish and Moon
 id: the-sun-with-fish-and-moon
 media: Fimo, wood, seed beads and stone

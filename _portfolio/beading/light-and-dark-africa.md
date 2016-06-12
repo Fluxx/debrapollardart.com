@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+colection_name: beading
 title: Light and Dark Africa
 id: light-and-dark-africa
 media: Shell, seed beads, material, thread

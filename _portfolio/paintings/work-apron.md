@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: paintings
+colection_name: paintings
 title: Work Apron
 id: work-apron
 media: Acrylic

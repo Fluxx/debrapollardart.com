@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: animals
+colection_name: animals
 title: Horse with Pine
 id: horse-with-pine
 media: Crayon

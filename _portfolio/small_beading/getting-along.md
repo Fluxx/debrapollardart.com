@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: small_beading
+colection_name: small_beading
 title: Getting Along
 id: getting-along
 media: Fimo sculpted molded faces and seed beads

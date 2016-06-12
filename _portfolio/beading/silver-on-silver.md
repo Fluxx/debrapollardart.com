@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+colection_name: beading
 title: Silver on Silver
 id: silver-on-silver
 media: Clay, metal, seed beads, fabric and threads

@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: paintings
+colection_name: paintings
 title: Getting Back Up
 id: getting-back-up
 media: Acrylic, ink, paper

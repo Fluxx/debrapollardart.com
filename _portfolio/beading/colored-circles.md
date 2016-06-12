@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+colection_name: beading
 title: Colored Circles
 id: colored-circles
 media: Paper mache, acrylic paint, stone, beads, fabric, thread

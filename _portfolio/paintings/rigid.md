@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: paintings
+colection_name: paintings
 title: Rigid
 id: rigid
 media: Acrylic and ink

@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: paintings
+colection_name: paintings
 title: It Matters
 id: it-matters
 media: Acrylic

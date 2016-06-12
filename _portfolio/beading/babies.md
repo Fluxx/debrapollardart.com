@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+colection_name: beading
 title: Babies
 id: babies
 media: Found object, beads, fabric, thread

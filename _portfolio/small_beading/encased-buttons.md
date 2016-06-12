@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: small_beading
+colection_name: small_beading
 title: Encased Buttons
 id: encased-buttons
 media: Seed beads and metal buttons.

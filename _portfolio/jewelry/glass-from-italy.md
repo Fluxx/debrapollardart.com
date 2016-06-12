@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: jewelry
+colection_name: jewelry
 title: Glass from Italy
 id: glass-from-italy
 media: Glass and polished stones with findings and metal clasp

@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: jewelry
+colection_name: jewelry
 title: Earth Colors
 id: earth-colors
 media: Mixed beads and metal

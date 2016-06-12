@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+colection_name: beading
 title: Monkey Life
 id: monkey-life
 media: Found objects, fimo, fabric, thread, seed beads, African trade beads

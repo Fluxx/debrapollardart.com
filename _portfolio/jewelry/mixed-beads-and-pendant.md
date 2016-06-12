@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: jewelry
+colection_name: jewelry
 title: Mixed Beads and Pendant
 id: mixed-beads-and-pendant
 media: Multi colored green beads, pendant

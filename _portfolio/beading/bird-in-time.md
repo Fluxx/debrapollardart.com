@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+colection_name: beading
 title: Bird in Time
 id: bird-in-time
 media: Leather, beads, fabric, thread

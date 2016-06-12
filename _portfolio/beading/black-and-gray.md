@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+colection_name: beading
 title: Black and Gray
 id: black-and-gray
 media: Metal and mixed beads, bead, metal chain, fabric, thread

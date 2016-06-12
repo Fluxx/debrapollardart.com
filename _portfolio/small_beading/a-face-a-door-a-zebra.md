@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: small_beading
+colection_name: small_beading
 title: A Face a Door a Zebra
 id: a-face-a-door-a-zebra
 media: Fimo, sculpted paper clay, seed beads

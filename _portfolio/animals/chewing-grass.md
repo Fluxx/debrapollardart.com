@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: animals
+colection_name: animals
 title: Chewing Grass
 id: chewing-grass
 media:  Acrylic

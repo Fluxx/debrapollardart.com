@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+colection_name: beading
 title: Birds Birds and More Birds
 id: birds-birds-and-more-birds
 media: Seed beads, wood, fabric, threads

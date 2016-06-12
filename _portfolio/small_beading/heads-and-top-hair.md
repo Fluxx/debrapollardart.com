@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: small_beading
+colection_name: small_beading
 title: Heads and Top Hair
 id: heads-and-top-hair
 media: Seed beads and fimo molded faces and textures

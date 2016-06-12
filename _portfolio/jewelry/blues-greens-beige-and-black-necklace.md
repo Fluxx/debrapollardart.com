@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: jewelry
+colection_name: jewelry
 title: Blues, Greens, Beige and Black necklace
 id: blues-greens-beige-and-black-necklace
 media: Mixed media beads and findings

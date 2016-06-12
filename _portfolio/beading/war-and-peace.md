@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: beading
+colection_name: beading
 title: War and Peace
 id: war-and-peace
 media: Enamel, fabric, quilting, seed beads

@@ -1,6 +1,6 @@
 ---
 layout: piece
-collection_: animals
+colection_name: animals
 title: Bridle Textures
 id: bridle-textures
 media:  Mixed papers, acrylic paint, watercolor, ink
