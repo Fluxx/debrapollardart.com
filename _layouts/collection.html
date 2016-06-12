@@ -17,7 +17,7 @@ layout: portfolio
             </dl>
             <h2><a href="{{site.baseurl}}{{piece.url }}">{{ piece.title | truncate:20,'...' }}</a></h2>
             <a href="{{site.baseurl}}{{piece.url }}">
-              <img src="{{site.baseurl}}/images/portfolio/{{piece.collection_}}/{{piece.id}}.thumb.jpg">
+              <img src="{{site.baseurl}}/images{{piece.id}}.thumb.jpg">
             </a>
         </li>
         {% endfor %}
