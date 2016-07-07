@@ -7,4 +7,5 @@ description: Peyote stitch encasing metal jewel, with mixed fabric and individua
 dimensions: 11" x 12" framed
 price: $280
 create_date: 2012
+availability: sold
 ---

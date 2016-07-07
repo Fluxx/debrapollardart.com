@@ -7,4 +7,5 @@ dimensions: 12" x 12" framed
 description: Peyote stitched beads, quilted fabric, matted in glassed maple frame 2 inches in depth.
 price: $230
 create_date: 2011
+availability: sold
 ---
