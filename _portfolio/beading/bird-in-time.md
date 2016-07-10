@@ -7,4 +7,5 @@ description: Leather cut bird encased with seed beads in peyote and various bead
 dimensions: 17" x 21"
 price: $380
 create_date: 2013
+availability: sold
 ---
