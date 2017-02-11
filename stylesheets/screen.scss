@@ -137,6 +137,8 @@ body {
 
                 }
             }
+
+            clear: both;
         }
 
         nav[data-collection] {
@@ -307,5 +309,13 @@ body {
                 font-weight: bold;
             }
         }
+    }
+
+    &[data-section=portfolio] {
+      img#sample {
+        display:block;
+        float:left;
+        margin-right: $gutter;
+      }
     }
 }
