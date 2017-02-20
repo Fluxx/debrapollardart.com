@@ -261,6 +261,10 @@ body {
 
     div#page {
         margin-left: $gutter;
+
+        a {
+          font-weight: bold;
+        }
     }
 
     footer {
