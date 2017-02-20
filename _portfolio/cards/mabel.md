@@ -2,7 +2,7 @@
 layout: piece
 collection_: cards
 title: Mabel
-media: Felted Wool
+media: Cardstock
 description:
 dimensions: 5" x 6"
 price: $3.50
