@@ -8,8 +8,10 @@ layout: portfolio
       <dl>
           <dt>Media</dt>
           <dd>{{ page.media }}</dd>
+          {% if page.description %}
           <dt>Description</dt>
           <dd>{{ page.description }}</dd>
+          {% endif %}
           <dt>Dimensions</dt>
           <dd>{{ page.dimensions }}</dd>
           <dt>Price</dt>
