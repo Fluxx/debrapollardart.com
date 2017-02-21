@@ -4,7 +4,7 @@ collection_: cards
 title: Hildegarde
 media: Cardstock
 description:
-dimensions: 5" x 6"
+dimensions: 4½ x 5½
 price: $3.50
 create_date: 2016
 ---
