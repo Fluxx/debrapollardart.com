@@ -159,7 +159,13 @@ body {
             div.info {
                 float: right;
                 width: 25%;
-                h1 { margin-top: 0; }
+                h1 {
+                  margin-top: 0;
+
+                  span {
+                    color: desaturate(lighten($primary-color, 30%), 30%);
+                  }
+                }
 
                 nav {
                     margin-top: 40px;

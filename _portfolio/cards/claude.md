@@ -2,6 +2,7 @@
 layout: piece
 collection_: cards
 title: Claude
+subtitle: the Cat
 media: Cardstock
 description:
 dimensions: 4½ x 5½

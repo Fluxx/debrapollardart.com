@@ -2,6 +2,7 @@
 layout: piece
 collection_: cards
 title: Delphine
+subtitle: the Duck
 media: Cardstock
 description:
 dimensions: 4½ x 5½

@@ -2,6 +2,7 @@
 layout: piece
 collection_: cards
 title: Godric
+subtitle: the goat
 media: Cardstock
 description:
 dimensions: 4½ x 5½
