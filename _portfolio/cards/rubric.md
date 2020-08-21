@@ -1,7 +1,7 @@
 ---
 layout: piece
 collection_: cards
-title: Ribric
+title: Rubric
 subtitle: the Rooster
 media: Cardstock
 description:
