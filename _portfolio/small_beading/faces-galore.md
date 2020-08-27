@@ -8,4 +8,5 @@ description: Sculpted faces from mold, seed beads peyote stitch fabric.
 price: A) $25.00, B) $25.00, C) $30.00
 availability: A, B
 date_created: 2013
+availability: sold
 ---

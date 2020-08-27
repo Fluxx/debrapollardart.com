@@ -8,4 +8,5 @@ description: Peyote stitch, paper clay hand painted, monotype.
 price: A) $20, B) $30, C) $30
 availability: B
 date_created: 2012
+availability: sold
 ---
